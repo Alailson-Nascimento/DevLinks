@@ -4,7 +4,6 @@
 A trilha Discover da Rocketseat é um curso gratuito e voltado para iniciantes que querem aprender a programar do zero. O curso abrange os fundamentos da programação web, incluindo HTML, CSS e JavaScript, além de introduzir conceitos de Git e GitHub. <br/>
 <br>
 
-![alt text](image.png)
 
 ## 🚀 Tecnologias
 
